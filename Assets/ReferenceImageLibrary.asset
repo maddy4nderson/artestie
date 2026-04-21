@@ -18,12 +18,12 @@ MonoBehaviour:
     m_Storage: []
   m_Images:
   - m_SerializedGuid:
-      m_GuidLow: 5048349551401734717
-      m_GuidHigh: 13565573364389413293
+      m_GuidLow: 4850139225918605071
+      m_GuidHigh: 6721350555566799533
     m_SerializedTextureGuid:
-      m_GuidLow: 303673357246457190
-      m_GuidHigh: 16219825383236989864
-    m_Size: {x: 0, y: 0}
-    m_SpecifySize: 0
-    m_Name: ARMarker
-    m_Texture: {fileID: 0}
+      m_GuidLow: 8364423974518505656
+      m_GuidHigh: 4579704574554442170
+    m_Size: {x: 0.1, y: 0.1}
+    m_SpecifySize: 1
+    m_Name: sea10x10cm (1)
+    m_Texture: {fileID: 2800000, guid: c7efc0b867497414ba898cd60b618e3f, type: 3}
