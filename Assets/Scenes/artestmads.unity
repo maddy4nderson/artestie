@@ -361,6 +361,18 @@ MonoBehaviour:
   m_StartingInteractionStrengthFilters: []
   m_AutoFindParentInteractableInHierarchy: 0
   m_ParentInteractableObject: {fileID: 0}
+--- !u!114 &142069531
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 142069524}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d8c8bf2535b55486f9ef7d33e3bafe68, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1001 &276735614
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -2055,6 +2067,10 @@ PrefabInstance:
       propertyPath: m_LocalPosition.z
       value: -0
       objectReference: {fileID: 0}
+    - target: {fileID: 6391419029961410531, guid: 028cd54bfb4ed481083325785e478a96, type: 3}
+      propertyPath: m_Name
+      value: TextButton
+      objectReference: {fileID: 0}
     - target: {fileID: 7716409692777123663, guid: 028cd54bfb4ed481083325785e478a96, type: 3}
       propertyPath: m_Name
       value: noosaPrefab
@@ -2095,6 +2111,9 @@ PrefabInstance:
     - targetCorrespondingSourceObject: {fileID: 6391419029961410531, guid: 028cd54bfb4ed481083325785e478a96, type: 3}
       insertIndex: -1
       addedObject: {fileID: 142069529}
+    - targetCorrespondingSourceObject: {fileID: 6391419029961410531, guid: 028cd54bfb4ed481083325785e478a96, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 142069531}
   m_SourcePrefab: {fileID: 100100000, guid: 028cd54bfb4ed481083325785e478a96, type: 3}
 --- !u!1001 &6966439073026653409
 PrefabInstance:
