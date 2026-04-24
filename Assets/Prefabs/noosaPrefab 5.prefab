@@ -3574,7 +3574,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: 'This is a recreation of the road near where I used to live in Noosa, Queensland.
+  m_text: 'This is a recreation of a road near where I used to live in Noosa, Queensland.
     I only spent six months there, but it felt like everything fell into place. Living
     with friends, working by the beach, and just enjoying the everyday moments made
     it one of the happiest times in my life.
@@ -3582,7 +3582,7 @@ MonoBehaviour:
 
     It means so much to me because
     it reminds me of how free and content I felt. Now living in Bristol, life feels
-    more fast-paced and structured, with different experiences that also provide
+    more fast-paced and structured, with different experiences that also give me
     happiness. '
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
